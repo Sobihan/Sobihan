@@ -29,7 +29,7 @@ I'm enthusiastic about applying my development skills across different areas of 
 
 ## Looking for Opportunities
 
-Currently, I'm actively exploring job opportunities and open to discussing potential roles across the field of computer science. If you think my skills align with what you're looking for, feel free to reach out to me via [sobihan.mahedran@epitech.eu].
+Currently, I'm actively exploring job opportunities and open to discussing potential roles across the field of computer science. If you think my skills align with what you're looking for, feel free to reach out to me via sobihan.mahedran@epitech.eu.
 
 Thank you for visiting my repository! 😊
 
